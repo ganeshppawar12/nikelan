@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nikelan/static/css/main.ed27bb6b.css",
+    "main.js": "/nikelan/static/js/main.c08c04ec.js",
+    "static/js/787.ec1e9fe0.chunk.js": "/nikelan/static/js/787.ec1e9fe0.chunk.js",
+    "static/media/nn.png": "/nikelan/static/media/nn.34df82b23ee6b66b2c34.png",
+    "index.html": "/nikelan/index.html",
+    "main.ed27bb6b.css.map": "/nikelan/static/css/main.ed27bb6b.css.map",
+    "main.c08c04ec.js.map": "/nikelan/static/js/main.c08c04ec.js.map",
+    "787.ec1e9fe0.chunk.js.map": "/nikelan/static/js/787.ec1e9fe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed27bb6b.css",
+    "static/js/main.c08c04ec.js"
+  ]
+}
