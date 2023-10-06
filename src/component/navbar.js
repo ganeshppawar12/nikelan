@@ -20,7 +20,7 @@ function Navbar(){
     </div>
    
     <div className={toggle?'hambu' :'options'}>
-     <ul onClick={handleToggle}> 
+     <ul > 
      
    
       <li  href='#'>Menu</li>
